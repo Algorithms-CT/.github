@@ -2,18 +2,18 @@
 
 ## Algorithm_Part
 
-Part 1. 배열, 문자열, 반복문과 재귀함수, 계산복잡도, 정렬, 완전탐색, 정수론 🙋‍♀️
+**Part 1**. 배열, 문자열, 반복문과 재귀함수, 계산복잡도, 정렬, 완전탐색, 정수론 🙋‍♀️
 
-Part 2. 분할정복, 이분탐색, 스택, 큐, 우선순위 큐 🌈
+**Part 2**. 분할정복, 이분탐색, 스택, 큐, 우선순위 큐 🌈
 
-Part 3. 그래프(vertex, edge, node, arc), BFS, DFS, 위상정렬 👩‍💻
+**Part 3**. 그래프(vertex, edge, node, arc), BFS, DFS, 위상정렬 👩‍💻
 
-Part 4. 동적 프로그래밍(DP), 그리디(Greedy) 🍿
+**Part 4**. 동적 프로그래밍(DP), 그리디(Greedy) 🍿
 
 ## Algorithm Repository 🧙
-- Java-CT (https://github.com/Algorithms-CT/Java-CT)
-- Python-CT (https://github.com/Algorithms-CT/Python_CT)
-- CPP-CT (https://github.com/Algorithms-CT/CPP_CT)
+- **Java-CT** (https://github.com/Algorithms-CT/Java-CT)
+- **Python-CT** (https://github.com/Algorithms-CT/Python_CT)
+- **CPP-CT** (https://github.com/Algorithms-CT/CPP_CT)
 
 > [출처]
 > 
