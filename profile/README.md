@@ -12,7 +12,7 @@ Part 4. 동적 프로그래밍(DP), 그리디(Greedy) 🍿
 
 ## Algorithm Repository 🧙
 - Java-CT (https://github.com/Algorithms-CT/Java-CT)
-- Python-CT
+- Python-CT (https://github.com/Algorithms-CT/Python_CT)
 - CPP-CT
 
 > [출처]
