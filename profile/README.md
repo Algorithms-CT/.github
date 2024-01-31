@@ -16,6 +16,7 @@
 - **CPP-CT** (https://github.com/Algorithms-CT/CPP_CT)
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/C++-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 
 > [출처]
 > 
