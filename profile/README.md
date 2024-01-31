@@ -15,7 +15,7 @@
 - **Python-CT** (https://github.com/Algorithms-CT/Python_CT)
 - **CPP-CT** (https://github.com/Algorithms-CT/CPP_CT)
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
 
 
 > [출처]
