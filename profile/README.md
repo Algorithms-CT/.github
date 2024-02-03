@@ -1,4 +1,4 @@
-## Hi there 👋
+## 공지사항 Update (02-03) 👋
 
 ## Algorithm_Part
 
