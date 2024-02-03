@@ -17,6 +17,15 @@
 
 <img src="https://img.shields.io/badge/JAVA-FF160B?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white"/>
 
+### 공지사항 (update 02-03)
+1. 자바 외에도 이후 **Python , c++** 참여자 또한 약간의 관리를 위해서 **매주 금요일**에 푼 문제에 대한 PR을 올려주시길 바랍니다.
+2. 이름은 F&Q 3번에 명시했듯 `파트번호_문제번호_영문 이름 이니셜 뒤 2자리` 입니다. ex) Pt1_1000_YB
+3. 이름 이니셜이 겹칠 경우 첫번째 영문이름도 같이 표기해주시길 바랍니다. ex) **Pt1_1000_YYB**
+4. 브랜치이름은 상관없습니다.
+5. PR을 2주연속 사유없이 3문제 이상 올리지 않을 시 조직에서 탈퇴될 수 있다는 점 유의하시길 바랍니다.
+6. 사유가 있다면 `yyb400@ajou.ac.kr` 로 이메일 부탁드립니다.
+7. 조직 활성화를 위한 문의사항 있다면 이메일로 알려주시길 바랍니다.
+
 
 > [출처]
 > 
