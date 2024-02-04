@@ -17,6 +17,12 @@
 
 <img src="https://img.shields.io/badge/JAVA-FF160B?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white"/>
 
+### ✔️ 진행방식
+
+- 매주 금요일 자정전까지 푼 문제에 대해 PR (최소 3문제 이상)
+- 문제에 변수이름에 대한 간단한 주석과 코드 아래에 알고리즘 설명
+- 다른 팀원들이 알았으면 하는 중요 개념 md 파일 update 환영
+
 ### 공지사항 (update 02-04)
 1. 자바 외에도 이후 **Python , c++** 참여자 또한 약간의 관리를 위해서 **매주 금요일**에 푼 문제에 대한 PR을 올려주시길 바랍니다. 
 2. 이름은 F&Q 3번에 명시했듯 `파트번호_문제번호_영문 이름 이니셜 뒤 2자리` 입니다. ex) Pt1_1000_YB
