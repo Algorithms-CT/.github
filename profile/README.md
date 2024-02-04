@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/badge/JAVA-FF160B?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white"/>
 
-### 공지사항 (update 02-03)
+### 공지사항 (update 02-04)
 1. 자바 외에도 이후 **Python , c++** 참여자 또한 약간의 관리를 위해서 **매주 금요일**에 푼 문제에 대한 PR을 올려주시길 바랍니다. 
 2. 이름은 F&Q 3번에 명시했듯 `파트번호_문제번호_영문 이름 이니셜 뒤 2자리` 입니다. ex) Pt1_1000_YB
 3. 이름 이니셜이 겹칠 경우 첫번째 영문이름도 같이 표기해주시길 바랍니다. ex) **Pt1_1000_YYB**
