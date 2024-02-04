@@ -10,18 +10,25 @@
 
 **Part 4**. 동적 프로그래밍(DP), 그리디(Greedy) 🍿
 
-## Algorithm Repository 🧙
-- **Java-CT** (https://github.com/Algorithms-CT/Java-CT)
-- **Python-CT** (https://github.com/Algorithms-CT/Python_CT)
-- **CPP-CT** (https://github.com/Algorithms-CT/CPP_CT)
+###  ⭐️ 소개
 
-<img src="https://img.shields.io/badge/JAVA-FF160B?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white"/>
+- 2024.01.27 ~
+- 알고리즘 스터디 입니다.
+- 자료구조와 알고리즘 개념 공부 및 문제 풀이 후
+- 코딩테스트 환경 조성하여 스터디 진행 
 
 ### ✔️ 진행방식
 
 - 매주 금요일 자정전까지 푼 문제에 대해 PR (최소 3문제 이상)
 - 문제에 변수이름에 대한 간단한 주석과 코드 아래에 알고리즘 설명
 - 다른 팀원들이 알았으면 하는 중요 개념 md 파일 update 환영
+
+## Algorithm Repository 🧙
+- **Java-CT** (https://github.com/Algorithms-CT/Java-CT)
+- **Python-CT** (https://github.com/Algorithms-CT/Python_CT)
+- **CPP-CT** (https://github.com/Algorithms-CT/CPP_CT)
+
+<img src="https://img.shields.io/badge/JAVA-FF160B?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white"/>
 
 ### 공지사항 (update 02-04)
 1. 자바 외에도 이후 **Python , c++** 참여자 또한 약간의 관리를 위해서 **매주 금요일**에 푼 문제에 대한 PR을 올려주시길 바랍니다. 
