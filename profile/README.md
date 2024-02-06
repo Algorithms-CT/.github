@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/yybmion"><img src="![조구만](https://github.com/Algorithms-CT/.github/assets/113106136/5cb842d8-64d4-4034-816b-03680f8e3556)
+    <td align="center"><a href="https://github.com/yybmion"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/430f9478-44ec-45c7-8cf8-84b4c052fce2)
 " width="100px;" alt=""/><sub></sub></a></td>
     <td align="center"><a href="https://github.com/limjunhyuk97"><img src="https://avatars.githubusercontent.com/u/59442344?v=4" width="100px;" alt=""/><sub></sub></a></td>
     <td align="center"><a href="https://github.com/llocr"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/49275392-d070-40c1-9704-bb3270f684f4)
