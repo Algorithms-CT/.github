@@ -23,6 +23,43 @@
 - 문제에 변수이름에 대한 간단한 주석과 코드 아래에 알고리즘 설명
 - 다른 팀원들이 알았으면 하는 중요 개념 md 파일 update 환영
 
+### JAVA 스터디원
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/yybmion"><img src="![조구만](https://github.com/Algorithms-CT/.github/assets/113106136/5cb842d8-64d4-4034-816b-03680f8e3556)
+" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/limjunhyuk97"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/4fc96efb-9a6e-4cc0-8d50-adcb9366165c)
+" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/llocr"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/49275392-d070-40c1-9704-bb3270f684f4)
+" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/99hyeon"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/4e0712b8-5b5c-4b1e-b377-822dc8b7c98b)
+" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/kimjiheej"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/4b1a9b99-b534-44fe-897e-656117593919)
+" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/jjeonghak"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/0cb07373-4bb5-4f57-89e9-67f9f1604e9b)
+" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/hmyeonge"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/3edffa0b-6fdf-4b76-bff1-b41ff5f04a6c)
+" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/MinhoJJang"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/ed5c199a-f139-40ce-9d18-b5e27a753e90)
+" width="100px;" alt=""/><sub></sub></a></td>
+
+
+  
+
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/yybmion">윤유빈</a></td>
+    <td align="center"><a href="https://github.com/limjunhyuk97">임준혁</a></td>
+    <td align="center"><a href="https://github.com/llocr">희수</a></td>
+    <td align="center"><a href="https://github.com/99hyeon">박서현</a></td>
+    <td align="center"><a href="https://github.com/kimjiheej">김지희</a></td>
+    <td align="center"><a href="https://github.com/jjeonghak">김정한</a></td>
+    <td align="center"><a href="https://github.com/hmyeonge">장해명</a></td>
+    <td align="center"><a href="https://github.com/MinhoJJang">장민호</a></td>
+  </tr>
+</table>
+
 ## Algorithm Repository 🧙
 - **Java-CT** (https://github.com/Algorithms-CT/Java-CT)
 - **Python-CT** (https://github.com/Algorithms-CT/Python_CT)
