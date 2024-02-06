@@ -30,18 +30,12 @@
     <td align="center"><a href="https://github.com/yybmion"><img src="https://github.com/Algorithms-CT/.github/assets/113106136/430f9478-44ec-45c7-8cf8-84b4c052fce2
 " width="100px;" alt=""/><sub></sub></a></td>
     <td align="center"><a href="https://github.com/limjunhyuk97"><img src="https://avatars.githubusercontent.com/u/59442344?v=4" width="100px;" alt=""/><sub></sub></a></td>
-    <td align="center"><a href="https://github.com/llocr"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/49275392-d070-40c1-9704-bb3270f684f4)
-" width="100px;" alt=""/><sub></sub></a></td>
-    <td align="center"><a href="https://github.com/99hyeon"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/4e0712b8-5b5c-4b1e-b377-822dc8b7c98b)
-" width="100px;" alt=""/><sub></sub></a></td>
-    <td align="center"><a href="https://github.com/kimjiheej"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/4b1a9b99-b534-44fe-897e-656117593919)
-" width="100px;" alt=""/><sub></sub></a></td>
-    <td align="center"><a href="https://github.com/jjeonghak"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/0cb07373-4bb5-4f57-89e9-67f9f1604e9b)
-" width="100px;" alt=""/><sub></sub></a></td>
-    <td align="center"><a href="https://github.com/hmyeonge"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/3edffa0b-6fdf-4b76-bff1-b41ff5f04a6c)
-" width="100px;" alt=""/><sub></sub></a></td>
-    <td align="center"><a href="https://github.com/MinhoJJang"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/ed5c199a-f139-40ce-9d18-b5e27a753e90)
-" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/llocr"><img src="https://avatars.githubusercontent.com/u/114149212?v=4" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/99hyeon"><img src="https://avatars.githubusercontent.com/u/114418850?v=4" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/kimjiheej"><img src="https://avatars.githubusercontent.com/u/66732343?v=4" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/jjeonghak"><img src="https://avatars.githubusercontent.com/u/77607258?v=4" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/hmyeonge"><img src="https://avatars.githubusercontent.com/u/140158384?v=4" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/MinhoJJang"><img src="https://avatars.githubusercontent.com/u/84257033?v=4" width="100px;" alt=""/><sub></sub></a></td>
 
 
   
