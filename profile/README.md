@@ -29,8 +29,7 @@
   <tr>
     <td align="center"><a href="https://github.com/yybmion"><img src="![조구만](https://github.com/Algorithms-CT/.github/assets/113106136/5cb842d8-64d4-4034-816b-03680f8e3556)
 " width="100px;" alt=""/><sub></sub></a></td>
-    <td align="center"><a href="https://github.com/limjunhyuk97"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/4fc96efb-9a6e-4cc0-8d50-adcb9366165c)
-" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/limjunhyuk97"><img src="https://avatars.githubusercontent.com/u/59442344?v=4" width="100px;" alt=""/><sub></sub></a></td>
     <td align="center"><a href="https://github.com/llocr"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/49275392-d070-40c1-9704-bb3270f684f4)
 " width="100px;" alt=""/><sub></sub></a></td>
     <td align="center"><a href="https://github.com/99hyeon"><img src="![image](https://github.com/Algorithms-CT/.github/assets/113106136/4e0712b8-5b5c-4b1e-b377-822dc8b7c98b)
