@@ -1,4 +1,4 @@
-## 공지사항 Update (02-07) 👋
+## 공지사항 Update (02-10 / 클래스 파일 이름 형식) 👋
 
 ## Algorithm_Part
 
@@ -59,9 +59,9 @@
 
 <img src="https://img.shields.io/badge/JAVA-FF160B?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white"/>
 
-### 공지사항 (update 02-07)
+### 공지사항 (update 02-10)
 1. 매주 금요일에 푼 문제에 대한 PR을 올려주시길 바랍니다. (그 전에 올려도, 한문제씩 올려도 상관없습니다.)
-2. 클래스 이름은 <파트넘버>_<문제번호>_<이름> 형식을 지켜주시길 바랍니다. ex) Pt1_10000_윤유빈
+2. 클래스 이름은 B<문제번호>_<깃허브닉네임> 형식을 지켜주시길 바랍니다. ex) B1000_yybmion
 3. 브랜치이름은 상관없습니다.
 4. PR을 2주연속 사유없이 3문제 이상 올리지 않을 시 조직에서 탈퇴될 수 있다는 점 유의하시길 바랍니다.
 5. 사유가 있다면 yyb400@ajou.ac.kr 로 이메일 부탁드립니다.
