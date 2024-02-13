@@ -1,4 +1,4 @@
-## 공지사항 Update (02-10 / 클래스 파일 이름 형식) 👋
+## 공지사항 Update (02-13 / 진행도 표기 예정) 👋
 
 ## Algorithm_Part
 
@@ -59,13 +59,14 @@
 
 <img src="https://img.shields.io/badge/JAVA-FF160B?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white"/>
 
-### 공지사항 (update 02-10)
+### 공지사항 (update 02-13)
 1. 매주 금요일에 푼 문제에 대한 PR을 올려주시길 바랍니다. (그 전에 올려도, 한문제씩 올려도 상관없습니다.)
 2. 클래스 이름은 B<문제번호>_<깃허브닉네임> 형식을 지켜주시길 바랍니다. ex) B1000_yybmion
 3. 브랜치이름은 상관없습니다.
 4. PR을 2주연속 사유없이 3문제 이상 올리지 않을 시 조직에서 탈퇴될 수 있다는 점 유의하시길 바랍니다.
 5. 사유가 있다면 yyb400@ajou.ac.kr 로 이메일 부탁드립니다.
 6. 조직 활성화를 위한 문의사항 있다면 이메일로 알려주시길 바랍니다.
+7. 스터디원 개별 진행도를 나타낼 수 있는 방법 구상중
 
 
 > [출처]
