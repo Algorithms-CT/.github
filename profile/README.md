@@ -33,7 +33,7 @@
     <td align="center"><a href="https://github.com/99hyeon"><img src="https://avatars.githubusercontent.com/u/114418850?v=4" width="100px;" alt=""/><sub></sub></a></td>
     <td align="center"><a href="https://github.com/kimjiheej"><img src="https://avatars.githubusercontent.com/u/66732343?v=4" width="100px;" alt=""/><sub></sub></a></td>
     <td align="center"><a href="https://github.com/jjeonghak"><img src="https://avatars.githubusercontent.com/u/77607258?v=4" width="100px;" alt=""/><sub></sub></a></td>
-    <td align="center"><a href="https://github.com/hmyeonge"><img src="https://avatars.githubusercontent.com/u/140158384?v=4" width="100px;" alt=""/><sub></sub></a></td>
+    <td align="center"><a href="https://github.com/samgashyeong"><img src="https://avatars.githubusercontent.com/u/66434787?v=4" width="100px;" alt=""/><sub></sub></a></td>
     <td align="center"><a href="https://github.com/MinhoJJang"><img src="https://avatars.githubusercontent.com/u/84257033?v=4" width="100px;" alt=""/><sub></sub></a></td>
 
 
@@ -47,7 +47,7 @@
     <td align="center"><a href="https://github.com/99hyeon">박서현</a></td>
     <td align="center"><a href="https://github.com/kimjiheej">김지희</a></td>
     <td align="center"><a href="https://github.com/jjeonghak">김정한</a></td>
-    <td align="center"><a href="https://github.com/hmyeonge">장해명</a></td>
+    <td align="center"><a href="https://github.com/samgashyeong">이준상</a></td>
     <td align="center"><a href="https://github.com/MinhoJJang">장민호</a></td>
   </tr>
 </table>
